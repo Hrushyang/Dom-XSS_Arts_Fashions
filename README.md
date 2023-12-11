@@ -1,7 +1,7 @@
 # Arts Tailor Shopee E-Commerce Website
 
 ## Overview
-Arts Tailor Shopee is an e-commerce platform designed for showcasing and selling tailor-made fashion products. This specific repository contains the source code for a training extension of the website, which includes intentional vulnerabilities aimed at providing a practical exercise for penetration testers.
+Arts Tailor Shopee is an e-commerce platform designed for showcasing and selling tailor-made fashion products. This specific repository contains the source code for a training extension of the website, which includes intentional vulnerabilities aimed at providing a practical exercise for penetration testers. This is designed as part of project from class Penetration Testing CIS 5209.
 
 ## Features
 - **Product Listings**: Displays a variety of tailor-made fashion products.
@@ -36,5 +36,7 @@ This website is designed for educational and training purposes only. It contains
 ## License
 [MIT License](LICENSE)
 
-## Contact
-For more information or queries, please contact the repository maintainers at [contact@artsfashions.com](mailto:contact@artsfashions.com).
+## Designed by 
+Hrushyang Adloori
+
+
