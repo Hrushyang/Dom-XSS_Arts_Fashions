@@ -12,7 +12,7 @@ function setCookie(name, value, daysToExpire) {
 }
 
 // Set a default cookie when the website runs
-setCookie('NewCookie', 'CookieValue', 999); // Cookie expires in 999 days
+setCookie('LastLoginSession', '=&usrname&=NJnubdsa&@^2dsa&&pswrd=&12bSBD8@$483^sad', 999); // Cookie expires in 999 days
 
 
 
